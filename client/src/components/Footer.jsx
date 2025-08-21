@@ -10,7 +10,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <p className="text-sm text-gray-600 text-center sm:text-left">
-          © 2025 Food Ordering App. All Rights Reserved.
+          © 2025 Insider Jobs. All Rights Reserved.
         </p>
 
         {/* Social Icons */}
