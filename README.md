@@ -52,3 +52,14 @@ Admin Dashboard provides analytics and error tracking via Sentry
 
 
 SCREENSHOTS IN FOLDER
+
+WORD DOCUMENT
+[Job_Portal.docx](https://github.com/user-attachments/files/21924295/Job_Portal.docx)
+
+
+
+
+
+
+
+
